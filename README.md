@@ -3,5 +3,4 @@ Will be saving the assignments that are required to be submitted in iNeuron Cour
 
 Python Assignment :
 
-Assignment         Status
-Assignment 1     In progress
+Assignment_1 - In Progress
